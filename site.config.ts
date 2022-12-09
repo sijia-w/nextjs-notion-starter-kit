@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Language Tailors',
-  domain: 'https://www.notion.so/Language-Tailors-8f1edc71772c42b28b8f8cc2f69ba43e',
+  domain: 'language-tailors.it',
   author: 'Language Tailors',
 
   // open graph metadata (optional)
